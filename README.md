@@ -1,5 +1,8 @@
 # Zoomed In Project Documentation 
-<img src="https://svgsilh.com/svg/146020.svg"  height="400" align="center" />
+<div align="center">
+  <img src="https://svgsilh.com/svg/146020.svg"  height="400" align="center" />
+</div>
+
 TABLE OF CONTENTS
 <ol>
   <ul>
